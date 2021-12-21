@@ -7,7 +7,7 @@
 	},
 	"name": "@toriyama/parsename",
 	"description": "旧姓併記に対応した名前パーサー",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"main": "dist/main.js",
 	"scripts": {
 		"build": "rm -rf ./dist && tsc",
